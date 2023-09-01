@@ -1,0 +1,2 @@
+#Ijoko Furniture
+Welcome to Ijoko Furniture, where elegance meets comfort. Discover a world of exceptional craftsmanship and design as we bring you the finest collection of chairs. Each Ijoko chair is a masterpiece, meticulously created to blend seamlessly with your lifestyle. Explore our diverse range of styles, from modern minimalism to timeless classics, all bearing the hallmark of quality that Ijoko is renowned for. This landing page is developed using HTML, CSS and Vanilla JS
