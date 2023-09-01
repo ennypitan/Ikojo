@@ -417,3 +417,81 @@ nav{
     left: 40%;
 }
 /* ********************* End of Products Section************************************ */
+
+/* ********************* Customer Section************************************ */
+.customer{
+    margin: 2rem 0;
+    padding: 2rem 0;
+}
+.customer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.customer-image-card{
+    width: 50%;
+}
+.customer-image-card img{
+    width: 70%;
+    margin-left: 25%;
+
+}
+.customer-text-card{
+    width: 50%;
+}
+.customer-heading{
+    color: #3D3D3F;
+    font-family: 'Geomanist';
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    margin-bottom: 2rem;
+}
+.customer-text{
+    color: #72696A;
+    font-family: 'Geomanist';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+    margin-bottom: 9rem;
+}
+.customer-name{
+    color: #3D3D3F;
+    font-family: 'Geomanist';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 6rem;
+}
+.other-info,
+.customer-nav-bar{
+    margin-left: 6rem;
+}
+.post-date{
+    color: #A9A7A6;
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 1rem;
+}
+.customer-rating  i{
+    font-size: 12px;
+}
+.customer-nav-bar{
+    margin-top: 1rem;
+}
+.customer-nav-bar span i{
+    font-size: 15px;
+    text-align: center;
+    padding: .5rem;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.customer-nav-bar span i:hover{
+   background-color: rgb(61, 61, 63, 0.5);
+}
+/* ********************* End of Customer Section************************************ */
