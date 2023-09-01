@@ -307,7 +307,7 @@ nav{
     line-height: normal;
     text-align: center;
     align-self: flex-start;
-    padding: .5rem;
+    padding: .6rem;
     cursor: pointer;
 }
 .see-all i{
@@ -354,7 +354,7 @@ nav{
     width: 30%;
     height: 305px;
     background-color: #FFF4E8;
-    margin-bottom: 8rem;
+    margin-bottom: 10rem;
     padding: 2rem;
     position: relative;
    
@@ -407,5 +407,13 @@ nav{
     width: 200%;
     top: -18%;
     left: 25%;
+}
+.product-card:nth-child(6) .product-image,
+.product-card:nth-child(4) .product-image{
+    left: 60%;
+}
+
+.product-card:nth-child(4) .product-image{
+    left: 40%;
 }
 /* ********************* End of Products Section************************************ */
