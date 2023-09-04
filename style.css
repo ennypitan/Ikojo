@@ -495,3 +495,75 @@ nav{
    background-color: rgb(61, 61, 63, 0.5);
 }
 /* ********************* End of Customer Section************************************ */
+
+/* ********************* signUp Section************************************ */
+.signup{
+    margin: 2rem 0;
+    padding: 2rem 0;
+}
+.signup-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.left-signup-card{
+    width: 60%;
+}
+.right-signup-card{
+    width: 40%;
+    transform: rotateX('180deg');
+}
+.signup-heading{
+    color: var #3D3D3F;
+    font-family: 'Geomanist';
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    margin-bottom: 1rem;
+}
+.input-field{
+    position: relative;
+}
+.input-btn{
+    padding: .4rem;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #D9AB82;
+    border: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: .2rem;
+    right: 51%;
+}
+.input-btn i{
+    padding: .6rem;
+    background-color: rgb(250, 226, 200,0.4);
+    border-radius: 3px;
+    margin-left: .5rem;
+}
+.top-signup-btn{
+    padding: .5rem 1.5rem;
+    color: #FE8432;
+    border: 1px solid #FE8432;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+}
+.email{
+    padding: 1.2rem;
+    width: 50%;
+    border-radius: 5px;
+    background-color: #F5F5F5;
+    border: 1px solid #D9AB82;
+    outline: #D9AB82;
+    
+}
+
+
+/* ********************* End of SignUp Section************************************ */
