@@ -567,3 +567,43 @@ nav{
 
 
 /* ********************* End of SignUp Section************************************ */
+
+/* ********************* Footer  Section************************************ */
+footer{
+    margin: 1rem 0;
+    padding: 1rem 0;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid rgb(128, 128, 128, 0.2);
+}
+
+.footer-logo{
+    width: 25%;
+}
+.footer-icons{
+    display: flex;
+    justify-content: flex-end;
+    width: 25%;
+
+}
+.footer-icons i{
+    color: #D9AB82;
+    font-size: 32px;
+    padding-left: 10px;
+}
+.footer-logo img{
+    width: 50%;
+}
+.footer-menu{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+}
+
+/* ********************* End of footer Section************************************ */
