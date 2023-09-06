@@ -570,8 +570,8 @@ nav{
 
 /* ********************* Footer  Section************************************ */
 footer{
-    margin: 1rem 0;
-    padding: 1rem 0;
+    margin: 0;
+    padding: 0;
 }
 .footer-container{
     display: flex;
@@ -607,3 +607,8 @@ footer{
 }
 
 /* ********************* End of footer Section************************************ */
+.row p{
+    color: gray;
+    margin-left: 40%;
+    text-align: center;
+}
