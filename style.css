@@ -112,7 +112,7 @@ nav{
 .hero-heading{
     width: 70%;
     color: #292019;
-    font-family: Geomanist;
+    font-family: 'Geomanist';
     font-size: 80px;
     font-style: normal;
     font-weight: 700;
@@ -307,21 +307,24 @@ nav{
     cursor: pointer;
     }
 .see-all{
-    color: #3D3D3F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #A9A7A6;
     font-family: 'Geomanist';
-    font-size: 20px;
+    font-size: 23px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     text-align: center;
-    align-self: flex-start;
     padding: .6rem;
     cursor: pointer;
+    border: 1px solid red;
 }
 .see-all i{
    font-size: 1.5rem;
    text-align: center;
-   padding:0 .3rem;
+   padding:0 ;
     background-color: rgb(61, 61, 63, 0.3);
     cursor: pointer;
 }
@@ -601,7 +604,7 @@ footer{
     padding-left: 10px;
 }
 .footer-logo img{
-    width: 50%;
+    width: 30%;
 }
 .footer-menu{
     display: flex;
