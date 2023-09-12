@@ -7,6 +7,12 @@
     nav{
        display: none;
     }
+    .mobile-nav{
+       left: 0;
+    }
+    .mobile-overlay{
+        display: block;
+    }
 
 
     /* ********************* Hero Section************************************ */
@@ -22,6 +28,7 @@
     width: 90%;;
     font-size: 50px;;
     line-height: 50px;;
+    margin-top: 3rem;
 }
 
 .left-hero-card{
