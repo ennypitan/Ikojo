@@ -212,6 +212,16 @@ nav{
     width: 2rem;
     top: 1em;
 }
+.mobile-menu li img{
+    width: 30%;
+    position: absolute;
+    bottom: 5rem;
+}
+.mobile-icons{
+    position: absolute;
+    bottom: 5rem;
+    right: 2rem;
+}
 
 
 

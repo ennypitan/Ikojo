@@ -22,3 +22,11 @@ requestBtn.addEventListener('click',()=>{
 closeBtn.addEventListener('click',()=>{
     popUp.classList.toggle('active')
 })
+
+
+
+//AOS Animation
+
+  AOS.init({
+    duration: 2000,
+    once: true});
