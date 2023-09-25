@@ -548,6 +548,7 @@ nav {
   background-color: #fff4e8;
   margin-bottom: 10rem;
   padding: 2rem;
+  position: relative;
 }
 .cart {
   padding: 0.7rem 1rem;
@@ -595,8 +596,8 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  position: inherit;
-  top: 2rem;
+  position: absolute;
+  top: 9rem;
 }
 .product-image img {
   width: 100%;
