@@ -296,6 +296,70 @@
     margin-left: 10%;
     text-align: center;
   }
+
+  /* --------------------About Section Page----------------------- */
+
+  .about-container {
+    flex-direction: column;
+  }
+  .about-card {
+    width: 100%;
+  }
+  .about-content .row .headings {
+    margin: 2rem 0;
+  }
+  .about-card {
+    flex-direction: column;
+  }
+  .about-box {
+    padding: 1rem 1rem 1rem 0;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 5rem;
+  }
+  .about-card .about-box:hover .read-more {
+    opacity: 1;
+  }
+  .read-more:hover {
+    opacity: 0;
+  }
+  .read-more {
+    right: 0;
+
+    width: 100%;
+  }
+
+  .box-text {
+    color: #64717c;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem;
+  }
+  .box-num {
+    font-size: 3.625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 4.75rem;
+    color: #d9ab82;
+  }
+  .box-title {
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2rem;
+    color: #d9ab82;
+  }
+  .about-img {
+    flex-direction: column;
+    transform: translateY(0);
+  }
+  .box-img {
+    width: 100%;
+  }
+
+  /* --------------------End of About Section Page----------------------- */
 }
 
 @media screen and (max-width: 768px) and (min-width: 481px) {
