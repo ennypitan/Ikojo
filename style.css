@@ -880,7 +880,31 @@ footer {
 .about-box {
   padding: 1rem 1rem 1rem 0;
   width: 48%;
+  position: relative;
+  cursor: pointer;
 }
+.about-card .about-box:hover .read-more {
+  opacity: 1;
+}
+.read-more:hover {
+  opacity: 0;
+}
+.read-more {
+  position: absolute;
+  top: -1rem;
+  right: -5rem;
+  z-index: 222;
+  width: 22rem;
+  height: 22rem;
+  background-color: rgb(217, 171, 130, 0.6);
+  padding: 1rem;
+  opacity: 0;
+  transition: 0.3s ease-in;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+}
+
 .box-text {
   color: #64717c;
   font-size: 1rem;
