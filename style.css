@@ -53,13 +53,13 @@ img {
 /* *********************Nav Bar************************************ */
 nav {
   padding: 0.5rem 0;
+  border-bottom: 1px rgba(0, 0, 0, 0.1) solid;
 }
 .nav-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  border-bottom: 1px rgba(0, 0, 0, 0.1) solid;
 }
 .nav-menu {
   width: 50%;
@@ -219,11 +219,15 @@ nav {
 
 /* ********************* Hero Section************************************ */
 .hero {
-  margin: 1rem 0;
-  padding: 1rem 0;
-  height: 100vh;
+  padding: 2rem 0;
+  height: 90vh;
+  width: 100%;
+  background-image: url(images/mainBG.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.hero-container {
+/* .hero-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -234,9 +238,9 @@ nav {
   background-position: 90% 0%;
   background-size: contain;
   background-repeat: no-repeat;
-}
+} */
 .hero-heading {
-  width: 70%;
+  width: 80%;
   color: #292019;
   font-family: "Geomanist";
   font-size: 80px;
@@ -254,7 +258,7 @@ nav {
   font-weight: 400;
   line-height: 28px;
   margin-top: 0.5rem;
-  padding-right: 40%;
+  padding-right: 60%;
 }
 .left-hero-card {
   width: 80%;
@@ -902,7 +906,8 @@ footer {
   transition: 0.3s ease-in;
   background-color: white;
   border-radius: 8px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
 .box-text {
@@ -938,6 +943,7 @@ footer {
 }
 .box-img {
   width: 48%;
+  animation: myAnim 7s ease 1s 1 normal forwards;
 }
 .box-img img {
   width: 100%;
@@ -945,3 +951,14 @@ footer {
   object-fit: cover;
 }
 /* --------------------End of About Section Page----------------------- */
+@keyframes myAnim {
+  0% {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

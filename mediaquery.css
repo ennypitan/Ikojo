@@ -17,7 +17,9 @@
   .hero {
     padding: 1rem 0;
     height: 100%;
+    background-image: none;
   }
+
   .hero-container {
     flex-direction: column;
     background-image: none;
@@ -315,6 +317,7 @@
   .hero {
     padding: 2rem 0;
     height: 100%;
+    background-image: none;
   }
   .hero-container {
     flex-direction: column;
