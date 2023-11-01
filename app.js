@@ -2,8 +2,10 @@
 const about = document.querySelector(".product");
 const btns = document.querySelectorAll(".tab-btn");
 const productPages = document.querySelectorAll(".product-container");
+
 about.addEventListener("click", function (e) {
   const id = e.target.dataset.id;
+  console.log(e.target);
   if (id) {
     // remove selected from other buttons
     btns.forEach((btn) => {
@@ -27,6 +29,7 @@ const menuList = document.querySelector(".mobile-overlay");
 menuIcon.addEventListener("click", () => {
   menuIcon.classList.toggle("active");
   menuList.classList.toggle("active");
+  console.log("clicked");
 });
 
 //pop up quote
