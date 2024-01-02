@@ -1,2 +1,37 @@
-#Ijoko Furniture
-Welcome to Ijoko Furniture, where elegance meets comfort. Discover a world of exceptional craftsmanship and design as we bring you the finest collection of chairs. Each Ijoko chair is a masterpiece, meticulously created to blend seamlessly with your lifestyle. Explore our diverse range of styles, from modern minimalism to timeless classics, all bearing the hallmark of quality that Ijoko is renowned for. This landing page is developed using HTML, CSS and Vanilla JS
+# Ijoko
+
+<img src="images/primary-logo.png" alt="" style="width: 100px" />
+
+Welcome to **Ijoko**, your go-to destination for discovering exquisite furniture designs. Ijoko is a showcase of unique and stylish furniture pieces crafted with a blend of creativity and functionality. Explore our collection and elevate your living spaces with our curated designs.Ijoko is a web platform dedicated to showcasing a diverse range of furniture designs that cater to various tastes and preferences. From minimalist aesthetics to bold and vibrant styles, our collection has something for everyone. Our mission is to inspire and help you transform your spaces into captivating environments.
+
+## Features
+
+- Diverse Designs: Explore a vast collection of furniture designs, ranging from modern and contemporary to classic and timeless pieces.
+
+- Responsive Interface: Enjoy a seamless browsing experience across different devices with our responsive web design.
+
+- Interactive Gallery: Immerse yourself in an interactive gallery that lets you visualize how each furniture piece can enhance your living spaces.
+
+- User-Friendly Navigation: Navigate effortlessly through our website with an intuitive and user-friendly interface.
+
+## Built With
+
+Ijoko is built using the following technologies:
+
+- **HTML5** - for structuring the web pages.
+- **CSS3** - for styling and layout.
+- **JavaScript** - for interactive and dynamic features.
+
+[ Live project @ https://ijoko.netlify.app/](https://ijoko.netlify.app/)
+
+<img src="images/ijoko-ui1.png" alt="" style="width: 900px" />
+
+<img src="images/ijoko-ui2.png" alt="" style="width: 900px" />
+<img src="images/ijoko-ui3.png" alt="" style="width: 900px" />
+<img src="images/ijoko-ui4.png" alt="" style="width: 900px" />
+
+## Contributing
+
+If you would like to contribute to Fiimu, feel free to fork the repository and submit a pull request. Your contributions are highly welcome!
+
+Thank you for exploring Fiimu! If you have any suggestions or feedback, feel free to reach out. Happy movie watching! 🎬🍿
