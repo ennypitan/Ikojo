@@ -29,9 +29,3 @@ Ijoko is built using the following technologies:
 <img src="images/ijoko-ui2.png" alt="" style="width: 900px" />
 <img src="images/ijoko-ui3.png" alt="" style="width: 900px" />
 <img src="images/ijoko-ui4.png" alt="" style="width: 900px" />
-
-## Contributing
-
-If you would like to contribute to Fiimu, feel free to fork the repository and submit a pull request. Your contributions are highly welcome!
-
-Thank you for exploring Fiimu! If you have any suggestions or feedback, feel free to reach out. Happy movie watching! 🎬🍿
