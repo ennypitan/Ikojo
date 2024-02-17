@@ -8,7 +8,7 @@ Welcome to **Ijoko**, your go-to destination for discovering exquisite furniture
 
 - Diverse Designs: Explore a vast collection of furniture designs, ranging from modern and contemporary to classic and timeless pieces.
 
-- Responsive Interface: Enjoy a seamless browsing experience across different devices with our responsive web design.
+- Responsive Interface: Enjoy a seamless mobile friendly browsing experience across different devices with our responsive web design.
 
 - Interactive Gallery: Immerse yourself in an interactive gallery that lets you visualize how each furniture piece can enhance your living spaces.
 
@@ -26,6 +26,6 @@ Ijoko is built using the following technologies:
 
 <img src="images/ijoko-ui1.png" alt="" style="width: 900px" />
 
-<img src="images/ijoko-ui2.png" alt="" style="width: 900px" />
-<img src="images/ijoko-ui3.png" alt="" style="width: 900px" />
-<img src="images/ijoko-ui4.png" alt="" style="width: 900px" />
+<img src="images/ijoko-ui2.png" alt="" style="width: 907px" />
+<img src="images/ijoko-ui3.png" alt="" style="width: 907px" />
+<img src="images/ijoko-ui4.png" alt="" style="width: 907px" />
