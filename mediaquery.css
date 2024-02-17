@@ -15,7 +15,7 @@
 
   /* ********************* Hero Section************************************ */
   .hero {
-    padding: 1rem 0;
+    padding: 1.1rem 0;
     height: 100%;
     background-image: none;
   }
@@ -30,7 +30,7 @@
     width: 90%;
     font-size: 50px;
     line-height: 50px;
-    margin-top: 3rem;
+    margin-top: 3.1rem;
   }
 
   .left-hero-card {
