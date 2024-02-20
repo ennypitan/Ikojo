@@ -11,7 +11,7 @@
 body {
   font-family: "Geomanist", sans-serif;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.5;
   background-color: #fbfbfb;
   color: #292019;
   overflow-x: hidden;
@@ -81,7 +81,7 @@ nav {
 .nav-bar li a {
   color: #000;
   font-family: "Geomanist";
-  font-size: 17px;
+  font-size: 17.1px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -151,8 +151,8 @@ nav {
 }
 .mobile-menu {
   position: relative;
-  top: 3.1rem;
-  padding: 2.1rem 5%;
+  top: 3rem;
+  padding: 2rem 5%;
   width: 70%;
   height: 100vh;
   background-color: white;
