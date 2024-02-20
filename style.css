@@ -205,14 +205,14 @@ nav {
   top: 1em;
 }
 .mobile-menu li img {
-  width: 30%;
+  width: 31%;
   position: absolute;
   bottom: 5rem;
 }
 .mobile-icons {
   position: absolute;
   bottom: 5rem;
-  right: 2rem;
+  right: 2.1rem;
 }
 
 /* ============================= End of Responsiveness Section ====================================== */
