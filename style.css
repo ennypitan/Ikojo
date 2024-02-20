@@ -212,7 +212,7 @@ nav {
 .mobile-icons {
   position: absolute;
   bottom: 5rem;
-  right: 2.1rem;
+  right: 2rem;
 }
 
 /* ============================= End of Responsiveness Section ====================================== */
@@ -337,8 +337,8 @@ nav {
 
 /* ********************* Sponsor Section************************************ */
 .sponsor {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .sponsor-heading {
   color: #292019;
