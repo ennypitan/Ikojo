@@ -337,8 +337,8 @@ nav {
 
 /* ********************* Sponsor Section************************************ */
 .sponsor {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .sponsor-heading {
   color: #292019;
@@ -355,8 +355,8 @@ nav {
 
 /* ********************* Resident/Hospitality Section************************************ */
 .resident {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .resi-row {
   display: flex;
@@ -392,7 +392,7 @@ nav {
   width: 50%;
   background-color: #fae2c8;
   padding-right: 5%;
-  padding: 2rem 2rem;
+  padding: 2.1rem 2.1rem;
 }
 .left-side {
   display: flex;
