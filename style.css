@@ -558,9 +558,9 @@ nav {
   position: relative;
 }
 .cart {
-  padding: 0.7rem 1rem;
+  padding: 0.7rem 1.1rem;
   background-color: #d9ab82;
-  border-radius: 2rem;
+  border-radius: 2.1rem;
   color: #fff;
   font-family: "Geomanist";
   font-size: 14px;
@@ -584,7 +584,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 3rem;
+  margin-bottom: 3.1rem;
 }
 .price {
   color: #3d3d3f;
@@ -604,7 +604,7 @@ nav {
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 9rem;
+  top: 9.1rem;
 }
 .product-image img {
   width: 100%;
@@ -640,8 +640,8 @@ nav {
 
 /* ********************* Customer Section************************************ */
 .customer {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .slide {
   display: flex;
