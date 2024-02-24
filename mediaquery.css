@@ -101,7 +101,7 @@
   }
   .right-side {
     width: 100%;
-    padding: 1.1rem;
+    padding: 1rem;
   }
 
   .resident-title {
@@ -116,8 +116,8 @@
   /* *********************End of  Resident/Hospitality Section************************************ */
   /* *********************Products Section************************************ */
   .product {
-    margin: 1.1rem 0;
-    padding: 1.1rem 0;
+    margin: 1rem 0;
+    padding: 1rem 0;
   }
   .product-container {
     flex-direction: column;
