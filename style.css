@@ -171,9 +171,9 @@ nav {
 }
 .top-bar {
   position: absolute;
-  top: 1.6rem;
+  top: 1.5rem;
   right: 0;
-  width: 2rem;
+  width: 2.1rem;
   height: 2px;
   background: rgb(15, 14, 14);
   border-radius: 2px;
@@ -191,7 +191,7 @@ nav {
   position: absolute;
   top: 2.3rem;
   right: 0rem;
-  width: 1rem;
+  width: 1.1rem;
   height: 2px;
   background: rgb(15, 14, 14);
   transition: all 0.5s;
@@ -207,19 +207,19 @@ nav {
 .mobile-menu li img {
   width: 30%;
   position: absolute;
-  bottom: 5rem;
+  bottom: 5.1rem;
 }
 .mobile-icons {
   position: absolute;
-  bottom: 5rem;
-  right: 2rem;
+  bottom: 5.1rem;
+  right: 2.1rem;
 }
 
 /* ============================= End of Responsiveness Section ====================================== */
 
 /* ********************* Hero Section************************************ */
 .hero {
-  padding: 2rem 0;
+  padding: 2.1rem 0;
   height: 90vh;
   width: 100%;
   background-image: url(images/mainBG.jpg);
@@ -271,12 +271,12 @@ nav {
   width: 20%;
 }
 .btn-primary {
-  padding: 1rem;
+  padding: 1.1rem;
   cursor: pointer;
   background-color: #c4a586;
   color: white;
   border: none;
-  margin-top: 2rem;
+  margin-top: 2.1rem;
 }
 .btn-secondary {
   padding: 1rem 1.4rem;
@@ -285,7 +285,7 @@ nav {
   color: #c4a586;
   border: 1px solid #c4a586;
   margin-top: 2rem;
-  margin-left: 1rem;
+  margin-left: 1.1rem;
 }
 /* Quote Popup Section */
 .quote-layer {
@@ -322,7 +322,7 @@ nav {
   position: absolute;
   top: 0;
   width: 100%;
-  padding: 2rem;
+  padding: 2.1rem;
   z-index: 100000;
   text-align: justify;
 }
