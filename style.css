@@ -328,8 +328,8 @@ nav {
 }
 .close {
   position: inherit;
-  right: 1rem;
-  top: 1rem;
+  right: 1.1rem;
+  top: 1.1rem;
   cursor: pointer;
 }
 /* End of Quote Popup Section */
@@ -337,8 +337,8 @@ nav {
 
 /* ********************* Sponsor Section************************************ */
 .sponsor {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .sponsor-heading {
   color: #292019;
@@ -348,7 +348,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 2rem;
+  margin-bottom: 2.1rem;
 }
 
 /* ********************* End of Sponsor Section************************************ */
@@ -381,7 +381,7 @@ nav {
   width: 50%;
   background-color: #fcefe9;
   padding-left: 5%;
-  padding-bottom: 1rem;
+  padding-bottom: 1.1rem;
 }
 
 .resident-right-card {
@@ -392,13 +392,13 @@ nav {
   width: 50%;
   background-color: #fae2c8;
   padding-right: 5%;
-  padding: 2.1rem 2.1rem;
+  padding: 2rem 2rem;
 }
 .left-side {
   display: flex;
   flex-direction: column;
   width: 30%;
-  padding: 4rem 0;
+  padding: 4.1rem 0;
 }
 .right-side {
   display: flex;
