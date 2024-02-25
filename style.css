@@ -111,7 +111,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   width: 100%;
-  padding: 0.5rem 0;
+  padding: 0.6rem 0;
   position: fixed;
   top: 0;
   left: -100%;
@@ -151,8 +151,8 @@ nav {
 }
 .mobile-menu {
   position: relative;
-  top: 3rem;
-  padding: 2rem 5%;
+  top: 3.1rem;
+  padding: 2.1rem 5%;
   width: 70%;
   height: 100vh;
   background-color: white;
