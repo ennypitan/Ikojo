@@ -337,8 +337,8 @@ nav {
 
 /* ********************* Sponsor Section************************************ */
 .sponsor {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .sponsor-heading {
   color: #292019;
@@ -348,15 +348,15 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 2.1rem;
+  margin-bottom: 2rem;
 }
 
 /* ********************* End of Sponsor Section************************************ */
 
 /* ********************* Resident/Hospitality Section************************************ */
 .resident {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .resi-row {
   display: flex;
@@ -381,7 +381,7 @@ nav {
   width: 50%;
   background-color: #fcefe9;
   padding-left: 5%;
-  padding-bottom: 1.1rem;
+  padding-bottom: 1rem;
 }
 
 .resident-right-card {
