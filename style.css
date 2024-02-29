@@ -520,8 +520,8 @@ nav {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin: 1rem 0;
-  padding: 1rem 0;
+  margin: 1.1rem 0;
+  padding: 1.1rem 0;
 }
 .all,
 .bed,
@@ -534,7 +534,7 @@ nav {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin: 1rem;
+  margin: 1.1rem;
   cursor: pointer;
 }
 .all:active,
@@ -553,14 +553,14 @@ nav {
   width: 30%;
   height: 350px;
   background-color: #fff4e8;
-  margin-bottom: 10.1rem;
-  padding: 2.1rem;
+  margin-bottom: 10rem;
+  padding: 2rem;
   position: relative;
 }
 .cart {
-  padding: 0.7rem 1rem;
+  padding: 0.7rem 1.1rem;
   background-color: #d9ab82;
-  border-radius: 2rem;
+  border-radius: 2.1rem;
   color: #fff;
   font-family: "Geomanist";
   font-size: 14px;
@@ -584,7 +584,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 3.1rem;
+  margin-bottom: 3rem;
 }
 .price {
   color: #3d3d3f;
@@ -597,14 +597,14 @@ nav {
 .original-price {
   color: #a9a7a6;
   font-size: 15px;
-  margin-left: 1rem;
+  margin-left: 1.1rem;
 }
 .product-image {
   display: flex;
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 9rem;
+  top: 9.1rem;
 }
 .product-image img {
   width: 100%;
