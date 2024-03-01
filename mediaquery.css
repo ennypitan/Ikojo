@@ -415,8 +415,8 @@
   /* ********************* End of Hero Section************************************ */
   /* ********************* Sponsor Section************************************ */
   .sponsor {
-    margin: 2rem 0;
-    padding: 2rem 0;
+    margin: 2.1rem 0;
+    padding: 2.1rem 0;
   }
   .sponsor-heading {
     color: #292019;
@@ -426,7 +426,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: 2rem;
+    margin-bottom: 2.1rem;
   }
   .hero-text {
     text-align: justify;
