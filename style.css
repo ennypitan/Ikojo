@@ -558,9 +558,9 @@ nav {
   position: relative;
 }
 .cart {
-  padding: 0.7rem 1.1rem;
+  padding: 0.7rem 1rem;
   background-color: #d9ab82;
-  border-radius: 2.1rem;
+  border-radius: 2rem;
   color: #fff;
   font-family: "Geomanist";
   font-size: 14px;
@@ -597,14 +597,14 @@ nav {
 .original-price {
   color: #a9a7a6;
   font-size: 15px;
-  margin-left: 1.1rem;
+  margin-left: 1rem;
 }
 .product-image {
   display: flex;
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 9.1rem;
+  top: 9rem;
 }
 .product-image img {
   width: 100%;
