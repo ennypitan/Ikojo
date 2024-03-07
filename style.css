@@ -792,7 +792,7 @@ nav {
   background-color: transparent;
   cursor: pointer;
   border-radius: 15px;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
 }
 .email {
   padding: 1.2rem;
@@ -816,7 +816,7 @@ footer {
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
   border-bottom: 1px solid rgb(128, 128, 128, 0.2);
 }
 
