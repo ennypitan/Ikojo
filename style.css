@@ -152,7 +152,7 @@ nav {
 .mobile-menu {
   position: relative;
   top: 3rem;
-  padding: 2.1rem 5%;
+  padding: 2rem 5%;
   width: 70%;
   height: 100vh;
   background-color: white;
@@ -201,18 +201,18 @@ nav {
   -webkit-transform: rotate(-45deg);
   -ms-transform: rotate(-45deg);
   transform: rotate(-45deg);
-  width: 2rem;
+  width: 2.1rem;
   top: 1em;
 }
 .mobile-menu li img {
   width: 30%;
   position: absolute;
-  bottom: 5rem;
+  bottom: 5.1rem;
 }
 .mobile-icons {
   position: absolute;
-  bottom: 5rem;
-  right: 2rem;
+  bottom: 5.1rem;
+  right: 2.1rem;
 }
 
 /* ============================= End of Responsiveness Section ====================================== */
