@@ -248,7 +248,7 @@ nav {
   font-weight: 700;
   line-height: 76px; /* 95% */
   letter-spacing: -1.5px;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
 }
 .hero-text {
   color: #72696a;
@@ -271,12 +271,12 @@ nav {
   width: 20%;
 }
 .btn-primary {
-  padding: 1rem;
+  padding: 1.1rem;
   cursor: pointer;
   background-color: #c4a586;
   color: white;
   border: none;
-  margin-top: 2rem;
+  margin-top: 2.1rem;
 }
 .btn-secondary {
   padding: 1rem 1.4rem;
@@ -284,8 +284,8 @@ nav {
   background-color: white;
   color: #c4a586;
   border: 1px solid #c4a586;
-  margin-top: 2rem;
-  margin-left: 1rem;
+  margin-top: 2.1rem;
+  margin-left: 1.1rem;
 }
 /* Quote Popup Section */
 .quote-layer {
