@@ -392,13 +392,13 @@ nav {
   width: 50%;
   background-color: #fae2c8;
   padding-right: 5%;
-  padding: 2rem 2rem;
+  padding: 2.1rem 2.1rem;
 }
 .left-side {
   display: flex;
   flex-direction: column;
   width: 30%;
-  padding: 4rem 0;
+  padding: 4.1rem 0;
 }
 .right-side {
   display: flex;
@@ -414,7 +414,7 @@ nav {
   font-style: normal;
   font-weight: 900;
   line-height: 44px;
-  padding-bottom: 5.1rem;
+  padding-bottom: 5rem;
 }
 .browse-link {
   color: #000;
