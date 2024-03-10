@@ -534,7 +534,7 @@ nav {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin: 1.1rem;
+  margin: 1rem;
   cursor: pointer;
 }
 .all:active,
@@ -554,7 +554,7 @@ nav {
   height: 350px;
   background-color: #fff4e8;
   margin-bottom: 10rem;
-  padding: 2rem;
+  padding: 2.1rem;
   position: relative;
 }
 .cart {
@@ -584,7 +584,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 3rem;
+  margin-bottom: 3.1rem;
 }
 .price {
   color: #3d3d3f;
@@ -597,14 +597,14 @@ nav {
 .original-price {
   color: #a9a7a6;
   font-size: 15px;
-  margin-left: 1rem;
+  margin-left: 1.1rem;
 }
 .product-image {
   display: flex;
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 9rem;
+  top: 9.1rem;
 }
 .product-image img {
   width: 100%;
