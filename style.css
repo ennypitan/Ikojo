@@ -761,7 +761,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: 56px;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
 }
 .input-field {
   position: relative;
@@ -872,7 +872,7 @@ footer {
   width: 48%;
 }
 .about-content .row .headings {
-  margin: 2rem 0;
+  margin: 2.1rem 0;
 }
 .about-card {
   display: flex;
@@ -901,7 +901,7 @@ footer {
   width: 22rem;
   height: 22rem;
   background-color: rgb(217, 171, 130, 0.6);
-  padding: 1.1rem;
+  padding: 1rem;
   opacity: 0;
   transition: 0.3s ease-in;
   background-color: white;
