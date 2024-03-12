@@ -433,8 +433,8 @@ nav {
 
 /* *********************Products Section************************************ */
 .product {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .product .row:nth-child(3) {
   position: relative;
@@ -489,7 +489,7 @@ nav {
   font-weight: 400;
   line-height: normal;
   cursor: pointer;
-  height: 3rem;
+  height: 3.1rem;
   background-color: #c4a586;
   color: white;
   border: 2px solid #d9ab82;
@@ -520,8 +520,8 @@ nav {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin: 1rem 0;
-  padding: 1rem 0;
+  margin: 1.1rem 0;
+  padding: 1.1rem 0;
 }
 .all,
 .bed,
@@ -554,13 +554,13 @@ nav {
   height: 350px;
   background-color: #fff4e8;
   margin-bottom: 10rem;
-  padding: 2.1rem;
+  padding: 2rem;
   position: relative;
 }
 .cart {
   padding: 0.7rem 1rem;
   background-color: #d9ab82;
-  border-radius: 2rem;
+  border-radius: 2.1rem;
   color: #fff;
   font-family: "Geomanist";
   font-size: 14px;
