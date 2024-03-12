@@ -912,7 +912,7 @@ footer {
 
 .box-text {
   color: #64717c;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5rem;
@@ -928,13 +928,13 @@ footer {
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 700;
-  line-height: 2rem;
+  line-height: 2.1rem;
   color: #d9ab82;
 }
 .about-img {
   display: flex;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 1.1rem;
   flex-wrap: wrap;
   width: 100%;
   height: 100%;
