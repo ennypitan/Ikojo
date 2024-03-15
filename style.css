@@ -520,8 +520,8 @@ nav {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin: 1.1rem 0;
-  padding: 1.1rem 0;
+  margin: 1rem 0;
+  padding: 1rem 0;
 }
 .all,
 .bed,
@@ -560,7 +560,7 @@ nav {
 .cart {
   padding: 0.7rem 1rem;
   background-color: #d9ab82;
-  border-radius: 2.1rem;
+  border-radius: 2rem;
   color: #fff;
   font-family: "Geomanist";
   font-size: 14px;
