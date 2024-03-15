@@ -597,7 +597,7 @@ nav {
 .original-price {
   color: #a9a7a6;
   font-size: 15px;
-  margin-left: 1.1rem;
+  margin-left: 1rem;
 }
 .product-image {
   display: flex;
@@ -640,8 +640,8 @@ nav {
 
 /* ********************* Customer Section************************************ */
 .customer {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .slide {
   display: flex;
@@ -683,7 +683,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: 56px;
-  margin-bottom: 2rem;
+  margin-bottom: 2.1rem;
 }
 .customer-text {
   color: #72696a;
