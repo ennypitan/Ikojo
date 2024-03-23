@@ -737,8 +737,8 @@ nav {
 
 /* ********************* signUp Section************************************ */
 .signup {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .signup-container {
   display: flex;
@@ -928,7 +928,7 @@ footer {
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 700;
-  line-height: 2.1rem;
+  line-height: 2rem;
   color: #d9ab82;
 }
 .about-img {
