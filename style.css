@@ -701,7 +701,7 @@ nav {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin-left: 6.1rem;
+  margin-left: 6rem;
 }
 .other-info,
 .customer-nav-bar {
@@ -737,8 +737,8 @@ nav {
 
 /* ********************* signUp Section************************************ */
 .signup {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .signup-container {
   display: flex;
@@ -792,7 +792,7 @@ nav {
   background-color: transparent;
   cursor: pointer;
   border-radius: 15px;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
 }
 .email {
   padding: 1.2rem;
@@ -816,7 +816,7 @@ footer {
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
   border-bottom: 1px solid rgb(128, 128, 128, 0.2);
 }
 
