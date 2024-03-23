@@ -271,12 +271,12 @@ nav {
   width: 20%;
 }
 .btn-primary {
-  padding: 1.1rem;
+  padding: 1rem;
   cursor: pointer;
   background-color: #c4a586;
   color: white;
   border: none;
-  margin-top: 2.1rem;
+  margin-top: 2rem;
 }
 .btn-secondary {
   padding: 1rem 1.4rem;
@@ -337,8 +337,8 @@ nav {
 
 /* ********************* Sponsor Section************************************ */
 .sponsor {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .sponsor-heading {
   color: #292019;
@@ -433,8 +433,8 @@ nav {
 
 /* *********************Products Section************************************ */
 .product {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .product .row:nth-child(3) {
   position: relative;
