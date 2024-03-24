@@ -52,8 +52,8 @@
   /* ********************* End of Hero Section************************************ */
   /* ********************* Sponsor Section************************************ */
   .sponsor {
-    margin: 2.1rem 0;
-    padding: 2.1rem 0;
+    margin: 2rem 0;
+    padding: 2rem 0;
   }
   .sponsor-heading {
     color: #292019;
@@ -63,7 +63,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: 2rem;
+    margin-bottom: 2.1rem;
   }
   .hero-text {
     text-align: justify;
@@ -73,8 +73,8 @@
 
   /* ********************* Resident/Hospitality Section************************************ */
   .resident {
-    margin: 1.1rem 0;
-    padding: 1.1rem 0;
+    margin: 1rem 0;
+    padding: 1rem 0;
   }
   .resi-row {
     flex-direction: column;
@@ -87,7 +87,7 @@
     align-items: center;
     width: 100%;
     padding-left: 0rem;
-    padding: 1.1rem;
+    padding: 1rem;
   }
   .resident-right-card {
     flex-direction: column;
