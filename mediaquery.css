@@ -306,7 +306,7 @@
     width: 100%;
   }
   .about-content .row .headings {
-    margin: 2.1rem 0;
+    margin: 2rem 0;
   }
   .about-card {
     flex-direction: column;
@@ -348,7 +348,7 @@
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 700;
-    line-height: 2.1rem;
+    line-height: 2rem;
     color: #d9ab82;
   }
   .about-img {
