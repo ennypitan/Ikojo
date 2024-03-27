@@ -348,7 +348,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 2.1rem;
+  margin-bottom: 2rem;
 }
 
 /* ********************* End of Sponsor Section************************************ */
@@ -737,8 +737,8 @@ nav {
 
 /* ********************* signUp Section************************************ */
 .signup {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .signup-container {
   display: flex;
@@ -792,7 +792,7 @@ nav {
   background-color: transparent;
   cursor: pointer;
   border-radius: 15px;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
 }
 .email {
   padding: 1.2rem;
@@ -872,7 +872,7 @@ footer {
   width: 48%;
 }
 .about-content .row .headings {
-  margin: 2.1rem 0;
+  margin: 2rem 0;
 }
 .about-card {
   display: flex;
