@@ -640,8 +640,8 @@ nav {
 
 /* ********************* Customer Section************************************ */
 .customer {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .slide {
   display: flex;
@@ -683,7 +683,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: 56px;
-  margin-bottom: 2rem;
+  margin-bottom: 2.1rem;
 }
 .customer-text {
   color: #72696a;
@@ -701,11 +701,11 @@ nav {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin-left: 6rem;
+  margin-left: 6.1rem;
 }
 .other-info,
 .customer-nav-bar {
-  margin-left: 6rem;
+  margin-left: 6.1rem;
   display: flex;
 }
 .post-date {
