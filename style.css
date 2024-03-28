@@ -718,7 +718,7 @@ nav {
   font-size: 12px;
 }
 .customer-nav-bar {
-  margin-top: 1rem;
+  margin-top: 1.1rem;
   position: absolute;
   top: 90%;
   right: 20%;
@@ -737,8 +737,8 @@ nav {
 
 /* ********************* signUp Section************************************ */
 .signup {
-  margin: 2rem 0;
-  padding: 2rem 0;
+  margin: 2.1rem 0;
+  padding: 2.1rem 0;
 }
 .signup-container {
   display: flex;
@@ -761,7 +761,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: 56px;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
 }
 .input-field {
   position: relative;
@@ -792,7 +792,7 @@ nav {
   background-color: transparent;
   cursor: pointer;
   border-radius: 15px;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
 }
 .email {
   padding: 1.2rem;
@@ -928,7 +928,7 @@ footer {
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 700;
-  line-height: 2rem;
+  line-height: 2.1rem;
   color: #d9ab82;
 }
 .about-img {

@@ -37,7 +37,7 @@
     width: 100%;
   }
   .right-hero-card {
-    margin-top: 2rem;
+    margin-top: 2.1rem;
     width: 100%;
     height: 60dvh;
     background-image: url(images/newHeroBG.png);
@@ -52,8 +52,8 @@
   /* ********************* End of Hero Section************************************ */
   /* ********************* Sponsor Section************************************ */
   .sponsor {
-    margin: 2rem 0;
-    padding: 2rem 0;
+    margin: 2.1rem 0;
+    padding: 2.1rem 0;
   }
   .sponsor-heading {
     color: #292019;
@@ -73,8 +73,8 @@
 
   /* ********************* Resident/Hospitality Section************************************ */
   .resident {
-    margin: 1rem 0;
-    padding: 1rem 0;
+    margin: 1.1rem 0;
+    padding: 1.1rem 0;
   }
   .resi-row {
     flex-direction: column;
