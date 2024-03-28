@@ -392,7 +392,7 @@ nav {
   width: 50%;
   background-color: #fae2c8;
   padding-right: 5%;
-  padding: 2rem 2rem;
+  padding: 2.1rem 2.1rem;
 }
 .left-side {
   display: flex;
@@ -414,7 +414,7 @@ nav {
   font-style: normal;
   font-weight: 900;
   line-height: 44px;
-  padding-bottom: 5rem;
+  padding-bottom: 5.1rem;
 }
 .browse-link {
   color: #000;
@@ -520,8 +520,8 @@ nav {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin: 1rem 0;
-  padding: 1rem 0;
+  margin: 1.1rem 0;
+  padding: 1.1rem 0;
 }
 .all,
 .bed,
@@ -554,7 +554,7 @@ nav {
   height: 350px;
   background-color: #fff4e8;
   margin-bottom: 10rem;
-  padding: 2rem;
+  padding: 2.1rem;
   position: relative;
 }
 .cart {
@@ -597,7 +597,7 @@ nav {
 .original-price {
   color: #a9a7a6;
   font-size: 15px;
-  margin-left: 1rem;
+  margin-left: 1.1rem;
 }
 .product-image {
   display: flex;
