@@ -169,7 +169,7 @@
     width: 100%;
   }
   .product-name {
-    margin-bottom: 2rem;
+    margin-bottom: 2.1rem;
   }
   .price {
     font-size: 17px;
@@ -204,13 +204,13 @@
     font-size: 40px;
 
     line-height: 45px;
-    margin-bottom: 1.1rem;
+    margin-bottom: 1rem;
   }
   .customer-text {
     font-size: 15px;
     line-height: 20px;
     text-align: justify;
-    margin-bottom: 1rem;
+    margin-bottom: 1.1rem;
   }
   .customer-name {
     font-size: 15px;
@@ -221,7 +221,7 @@
     margin-left: 0rem;
   }
   .customer-nav-bar {
-    margin-top: 1.1rem;
+    margin-top: 1rem;
     position: absolute;
     top: 100%;
     right: 10%;
@@ -232,8 +232,8 @@
   /* ********************* End of Customer Section************************************ */
   /* ********************* signUp Section************************************ */
   .signup {
-    margin: 1.1rem 0;
-    padding: 1.1rem 0;
+    margin: 1rem 0;
+    padding: 1rem 0;
   }
   .signup-container {
     flex-direction: column;
