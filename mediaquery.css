@@ -73,8 +73,8 @@
 
   /* ********************* Resident/Hospitality Section************************************ */
   .resident {
-    margin: 1.1rem 0;
-    padding: 1.1rem 0;
+    margin: 1rem 0;
+    padding: 1rem 0;
   }
   .resi-row {
     flex-direction: column;
@@ -101,13 +101,13 @@
   }
   .right-side {
     width: 100%;
-    padding: 1rem;
+    padding: 1.1rem;
   }
 
   .resident-title {
     font-size: 25px;
     line-height: 30px;
-    padding-bottom: 1rem;
+    padding-bottom: 1.1rem;
   }
   .browse-link {
     font-size: 25px;
