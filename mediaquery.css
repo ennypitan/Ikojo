@@ -348,7 +348,7 @@
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 700;
-    line-height: 2rem;
+    line-height: 2.1rem;
     color: #d9ab82;
   }
   .about-img {
@@ -379,7 +379,7 @@
 
   /* ********************* Hero Section************************************ */
   .hero {
-    padding: 2.1rem 0;
+    padding: 2rem 0;
     height: 100%;
     background-image: none;
   }
@@ -393,7 +393,7 @@
     width: 90%;
     font-size: 50px;
     line-height: 50px;
-    margin-top: 3.1rem;
+    margin-top: 3rem;
   }
 
   .left-hero-card {
