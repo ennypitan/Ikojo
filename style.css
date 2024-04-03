@@ -322,7 +322,7 @@ nav {
   position: absolute;
   top: 0;
   width: 100%;
-  padding: 2.1rem;
+  padding: 2rem;
   z-index: 100000;
   text-align: justify;
 }
@@ -337,8 +337,8 @@ nav {
 
 /* ********************* Sponsor Section************************************ */
 .sponsor {
-  margin: 2.1rem 0;
-  padding: 2.1rem 0;
+  margin: 2rem 0;
+  padding: 2rem 0;
 }
 .sponsor-heading {
   color: #292019;
@@ -348,7 +348,7 @@ nav {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 2.1rem;
+  margin-bottom: 2rem;
 }
 
 /* ********************* End of Sponsor Section************************************ */
