@@ -476,7 +476,7 @@
   .resident-title {
     font-size: 25px;
     line-height: 30px;
-    padding-bottom: 1.1rem;
+    padding-bottom: 1rem;
   }
   .browse-link {
     font-size: 25px;
@@ -537,7 +537,7 @@
     width: 45%;
   }
   .product-name {
-    margin-bottom: 2rem;
+    margin-bottom: 2.1rem;
   }
   .price {
     font-size: 20px;
@@ -591,8 +591,8 @@
   /* ********************* End of Customer Section************************************ */
   /* ********************* signUp Section************************************ */
   .signup {
-    margin: 1rem 0;
-    padding: 1rem 0;
+    margin: 1.1rem 0;
+    padding: 1.1rem 0;
   }
   .signup-container {
     flex-direction: row;
