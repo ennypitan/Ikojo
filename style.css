@@ -211,15 +211,15 @@ nav {
 }
 .mobile-icons {
   position: absolute;
-  bottom: 5.1rem;
-  right: 2.1rem;
+  bottom: 5rem;
+  right: 2rem;
 }
 
 /* ============================= End of Responsiveness Section ====================================== */
 
 /* ********************* Hero Section************************************ */
 .hero {
-  padding: 2rem 0;
+  padding: 2.1rem 0;
   height: 90vh;
   width: 100%;
   background-image: url(images/mainBG.jpg);
